@@ -1,1 +1,0 @@
-# Django-simple_blog
